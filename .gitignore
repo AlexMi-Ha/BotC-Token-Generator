@@ -1,0 +1,4 @@
+output_png/
+output/
+input_webp/*
+!input_webp/.gitkeep

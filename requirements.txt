@@ -1,0 +1,5 @@
+cadquery
+pillow
+numpy
+opencv-python
+
