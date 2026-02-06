@@ -2,6 +2,8 @@
 
 This program can generate STL files of "Blood on the Clocktower" Tokens.
 
+![Example image](./docs/image.png)
+
 ## Process
 
 Put the role images in the input_webp/ directory. You can download them from [script.bloodontheclocktower.com](https://script.bloodontheclocktower.com/).
